@@ -2,6 +2,7 @@
 
 ![](https://github.com/pgurazada/business-analytics/workflows/CI/badge.svg) 
 ![](https://github.com/pgurazada/business-analytics/workflows/GH-Pages%20Status/badge.svg) 
+
 https://pgurazada.github.io/business-analytics/
 
 # Business Analytics
