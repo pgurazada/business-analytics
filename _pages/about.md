@@ -4,6 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
+Right of the middle in `y = f(x)`
+
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
